@@ -1,1 +1,1 @@
-print("firts")
+print("firtss")
