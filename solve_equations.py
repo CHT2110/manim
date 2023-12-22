@@ -1,4 +1,4 @@
-from manim import *
+from solve_equations import *
 
 class Equation(Scene):
     def construct(self):
